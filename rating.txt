@@ -1,0 +1,6 @@
+136	user1	5
+13	user1	4
+137	user1	4
+136	user2	4
+135	user2	5
+135	user1	2
